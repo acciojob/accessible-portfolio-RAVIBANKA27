@@ -1,2 +1,17 @@
+h1{
+	color: blue;
+}
 
+img{
+    height: 200px;
+    width: 200px;
+}
+
+nav li{
+    list-style: none;
+}
+
+p{
+    font-weight: bold;
+}
 /* Your CSS Code here. */
